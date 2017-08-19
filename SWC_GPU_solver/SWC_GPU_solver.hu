@@ -1,0 +1,6 @@
+#ifndef __SWC_GPU_solver_hu__
+#define __SWC_GPU_solver_hu__
+
+void solverGPU(Real *c, Real *k, params &p, modelparams &m);
+
+#endif
